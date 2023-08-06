@@ -1,7 +1,6 @@
 ---
 title: "Olli-Pekka 'Opa' Tikkasalo"
-
-description: ""
+description: "Ympäristö, data, numeriikka"
 cascade:
   featured_image: './images/front.jpg'
 ---
